@@ -1,0 +1,27 @@
+{
+  "name": "Dedrick",
+  "version": "0.0.1",
+  "description": "Test unitaire avec QUnit",
+  "main": "server-side/server.js",
+  "scripts": {
+    "test": "node server-side/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DedrickEnc/qunit.git"
+  },
+  "keywords": [
+    "test",
+    "unitaire",
+    "QUnit",
+    "javascript"
+  ],
+  "author": "Dedrick Kitamuka",
+  "license": "Beerware",
+  "bugs": {
+    "url": "https://github.com/DedrickEnc/javascriptcodes/issues"
+  },
+  "dependencies": {
+    "express": "3.x.x"
+  }
+}
